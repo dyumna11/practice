@@ -8,3 +8,4 @@ https://www.geeksforgeeks.org/problems/inversion-of-array-1587115620/1<br>
 https://leetcode.com/problems/search-in-rotated-sorted-array-ii/<br>
 https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/<br>
 https://leetcode.com/problems/sum-of-subarray-ranges/<br>
+https://leetcode.com/problems/largest-rectangle-in-histogram/<br>
