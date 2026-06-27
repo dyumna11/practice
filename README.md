@@ -4,6 +4,7 @@ https://leetcode.com/problems/next-permutation/<br>
 https://leetcode.com/problems/4sum/<br>
 https://leetcode.com/problems/3sum/<br>
 https://leetcode.com/problems/two-sum/<br>
-https://www.geeksforgeeks.org/problems/inversion-of-array-1587115620/1
-https://leetcode.com/problems/search-in-rotated-sorted-array-ii/
-https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/
+https://www.geeksforgeeks.org/problems/inversion-of-array-1587115620/1<br>
+https://leetcode.com/problems/search-in-rotated-sorted-array-ii/<br>
+https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/<br>
+https://leetcode.com/problems/sum-of-subarray-ranges/<br>
