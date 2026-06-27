@@ -4,3 +4,4 @@ https://leetcode.com/problems/next-permutation/<br>
 https://leetcode.com/problems/4sum/<br>
 https://leetcode.com/problems/3sum/<br>
 https://leetcode.com/problems/two-sum/<br>
+https://www.geeksforgeeks.org/problems/inversion-of-array-1587115620/1
