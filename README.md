@@ -15,3 +15,4 @@ https://neetcode.io/problems/permutation-string/question<br>
 https://leetcode.com/problems/set-matrix-zeroes/<br>
 https://leetcode.com/problems/pascals-triangle/ <br>
 https://leetcode.com/problems/sort-colors/ <br>
+https://leetcode.com/problems/find-the-duplicate-number/ <br>
