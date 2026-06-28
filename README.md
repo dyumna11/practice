@@ -13,3 +13,4 @@ https://leetcode.com/problems/number-of-people-aware-of-a-secret/description/<br
 https://leetcode.com/problems/using-a-robot-to-print-the-lexicographically-smallest-string/<br>
 https://neetcode.io/problems/permutation-string/question<br>
 https://leetcode.com/problems/set-matrix-zeroes/<br>
+https://leetcode.com/problems/pascals-triangle/ <br>
