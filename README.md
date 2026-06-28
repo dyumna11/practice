@@ -9,4 +9,5 @@ https://leetcode.com/problems/search-in-rotated-sorted-array-ii/<br>
 https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/<br>
 https://leetcode.com/problems/sum-of-subarray-ranges/<br>
 https://leetcode.com/problems/largest-rectangle-in-histogram/<br>
-https://leetcode.com/problems/number-of-people-aware-of-a-secret/description/
+https://leetcode.com/problems/number-of-people-aware-of-a-secret/description/<br>
+https://leetcode.com/problems/using-a-robot-to-print-the-lexicographically-smallest-string/<br>
