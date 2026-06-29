@@ -25,3 +25,4 @@ https://www.geeksforgeeks.org/problems/fractional-knapsack-1587115620/1 <br>
 https://leetcode.com/problems/coin-change/ <br>
 https://leetcode.com/problems/subsets-ii/ <br>
 https://leetcode.com/problems/palindrome-partitioning-ii/ <br>
+https://leetcode.com/problems/palindrome-partitioning/<br>
