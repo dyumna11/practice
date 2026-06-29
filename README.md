@@ -21,3 +21,4 @@ https://leetcode.com/problems/palindrome-linked-list/<br>
 https://leetcode.com/problems/reverse-nodes-in-k-group/<br>
 https://www.geeksforgeeks.org/problems/maximum-meetings-in-one-room/1<br>
 https://www.geeksforgeeks.org/problems/job-sequencing-problem-1587115620/1 <br>
+https://www.geeksforgeeks.org/problems/fractional-knapsack-1587115620/1 <br>
