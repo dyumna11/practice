@@ -19,3 +19,4 @@ https://leetcode.com/problems/find-the-duplicate-number/ <br>
 https://leetcode.com/problems/find-missing-and-repeated-values/description/ <br>
 https://leetcode.com/problems/palindrome-linked-list/<br>
 https://leetcode.com/problems/reverse-nodes-in-k-group/<br>
+https://www.geeksforgeeks.org/problems/maximum-meetings-in-one-room/1<br>
