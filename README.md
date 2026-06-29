@@ -17,3 +17,4 @@ https://leetcode.com/problems/pascals-triangle/ <br>
 https://leetcode.com/problems/sort-colors/ <br>
 https://leetcode.com/problems/find-the-duplicate-number/ <br>
 https://leetcode.com/problems/find-missing-and-repeated-values/description/ <br>
+https://leetcode.com/problems/palindrome-linked-list/<br>
