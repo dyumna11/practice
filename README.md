@@ -29,3 +29,4 @@ https://leetcode.com/problems/palindrome-partitioning/<br>
 https://www.geeksforgeeks.org/problems/distance-from-the-source-bellman-ford-algorithm/1<br>
 https://leetcode.com/problems/evaluate-reverse-polish-notation/<br>
 https://leetcode.com/problems/repeated-dna-sequences/description/ <br>
+https://leetcode.com/problems/find-k-pairs-with-smallest-sums/<br>
