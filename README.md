@@ -41,3 +41,4 @@ https://leetcode.com/problems/boats-to-save-people/<br>
 https://www.geeksforgeeks.org/problems/possible-words-from-phone-digits-1587115620/1<br>
 https://leetcode.com/problems/zigzag-conversion/<br>
 https://www.geeksforgeeks.org/problems/k-closest-values/1<br>
+https://leetcode.com/problems/shortest-path-in-binary-matrix/<br>
