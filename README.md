@@ -46,3 +46,4 @@ https://www.geeksforgeeks.org/problems/minimum-multiplications-to-reach-end/1<br
 https://leetcode.com/problems/number-of-operations-to-make-network-connected/ <br>
 https://leetcode.com/problems/accounts-merge/<br>
 https://leetcode.com/problems/longest-nice-substring/description/<br>
+https://www.interviewbit.com/problems/implement-power-function/<br>
