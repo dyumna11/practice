@@ -48,3 +48,4 @@ https://leetcode.com/problems/accounts-merge/<br>
 https://leetcode.com/problems/longest-nice-substring/description/<br>
 https://www.interviewbit.com/problems/implement-power-function/<br>
 https://leetcode.com/problems/lowest-common-ancestor-of-deepest-leaves/ <br>
+https://www.interviewbit.com/problems/minimum-lights-to-activate/<br>
