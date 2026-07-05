@@ -56,3 +56,4 @@ https://leetcode.com/problems/shortest-bridge/ <br>
 https://leetcode.com/problems/number-of-substrings-containing-all-three-characters/<br>
 https://www.geeksforgeeks.org/problems/maximum-point-you-can-obtain-from-cards/1 <br>
 https://www.geeksforgeeks.org/problems/longest-k-unique-characters-substring0853/1<br>
+https://www.geeksforgeeks.org/problems/distance-of-nearest-cell-having-1-1587115620/1 <br>
