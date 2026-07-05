@@ -60,3 +60,4 @@ https://www.geeksforgeeks.org/problems/distance-of-nearest-cell-having-1-1587115
 https://www.geeksforgeeks.org/problems/course-schedule/1 <br>
 https://leetcode.com/problems/k-closest-points-to-origin/ <br>
 https://leetcode.com/problems/distinct-prime-factors-of-product-of-array/ <br>
+https://www.geeksforgeeks.org/problems/burning-tree/1 <br>
