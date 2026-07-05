@@ -59,3 +59,4 @@ https://www.geeksforgeeks.org/problems/longest-k-unique-characters-substring0853
 https://www.geeksforgeeks.org/problems/distance-of-nearest-cell-having-1-1587115620/1 <br>
 https://www.geeksforgeeks.org/problems/course-schedule/1 <br>
 https://leetcode.com/problems/k-closest-points-to-origin/ <br>
+https://leetcode.com/problems/distinct-prime-factors-of-product-of-array/ <br>
