@@ -53,3 +53,4 @@ https://www.interviewbit.com/problems/flip/<br>
 https://www.interviewbit.com/problems/merge-intervals/<br>
 https://www.interviewbit.com/problems/sum-of-fibonacci-numbers/<br>
 https://leetcode.com/problems/shortest-bridge/ <br>
+https://leetcode.com/problems/number-of-substrings-containing-all-three-characters/<br>
