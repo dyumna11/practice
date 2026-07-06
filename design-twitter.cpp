@@ -1,6 +1,6 @@
 class Twitter {
 public:
-unordered_map<int, vector<int>> followmap;
+unordered_map<int, unordered_set<int>> followmap;
     unordered_map<int, vector<pair<int,int>>> tweet;
     int time=0;
     Twitter() {
@@ -13,45 +13,38 @@ unordered_map<int, vector<int>> followmap;
     }
     
     vector<int> getNewsFeed(int userId) {
-        priority_queue<pair<int,int>>pq; //{time,tweetId}
+        priority_queue<pair<int,int>,vector<pair<int,int>>,greater<pair<int,int>>>pq; //{time,tweetId}
         for(auto i:tweet[userId])
         {
             pq.push(i);
+            if(pq.size()>10)
+            pq.pop();
         }
-        for(int followee:followmap[userId])
+        for(auto followee:followmap[userId])
         {
             for(auto i:tweet[followee])
         {
             pq.push(i);
+             if(pq.size()>10)
+            pq.pop();
         }
         }
         vector<int>ans;
-        while(!pq.empty() && ans.size()<10)
+        while(!pq.empty())
         {
             ans.push_back(pq.top().second);
             pq.pop();
         }
+        reverse(ans.begin(),ans.end());
         return ans;
     }
     
     void follow(int followerId, int followeeId) {
-         if(followeeId==followerId)
-        return;
-        auto &vec=followmap[followerId];
-         if(find(vec.begin(), vec.end(), followeeId) == vec.end())
-        {
-            vec.push_back(followeeId);
-        }
+        followmap[followerId].insert(followeeId);
     }
     
     void unfollow(int followerId, int followeeId) {
-       auto it = followmap.find(followerId);
-
-        if(it != followmap.end())
-        {
-            auto& vec = it->second;
-            vec.erase(remove(vec.begin(), vec.end(), followeeId), vec.end());
-        }
+        followmap[followerId].erase(followeeId);
 
     }
 };
