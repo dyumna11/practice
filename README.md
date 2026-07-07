@@ -73,3 +73,4 @@ https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/ <br>
 https://leetcode.com/problems/binary-tree-right-side-view/description/ <br>
 https://www.geeksforgeeks.org/problems/boundary-traversal-of-binary-tree/1 <br>
 https://leetcode.com/problems/remove-nodes-from-linked-list/ <br>
+https://leetcode.com/problems/partition-list/ <br>
