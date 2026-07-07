@@ -67,3 +67,4 @@ https://leetcode.com/problems/merge-k-sorted-lists/ <br>
 https://leetcode.com/problems/design-twitter/description/ <br>
 https://www.geeksforgeeks.org/problems/number-of-distinct-subsequences0909/1 <br>
 https://leetcode.com/problems/distinct-subsequences/description/<br>
+https://leetcode.com/problems/longest-string-chain/ <br>
