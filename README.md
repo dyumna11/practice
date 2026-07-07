@@ -69,3 +69,4 @@ https://www.geeksforgeeks.org/problems/number-of-distinct-subsequences0909/1 <br
 https://leetcode.com/problems/distinct-subsequences/description/<br>
 https://leetcode.com/problems/longest-string-chain/ <br>
 https://www.geeksforgeeks.org/problems/longest-bitonic-subsequence0824/1 <br>
+https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/ <br>
