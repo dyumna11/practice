@@ -78,3 +78,4 @@ https://www.geeksforgeeks.org/problems/insertion-sort-for-singly-linked-list/1 <
 https://leetcode.com/problems/find-median-from-data-stream/ <br>
 https://www.geeksforgeeks.org/problems/maximum-sum-combination/1 <br>
 https://www.interviewbit.com/problems/single-number-ii/ <br>
+https://leetcode.com/problems/find-the-original-array-of-prefix-xor/ <br>
