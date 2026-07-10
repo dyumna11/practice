@@ -84,3 +84,4 @@ https://www.geeksforgeeks.org/problems/array-to-bst4443/1 <br>
 https://www.geeksforgeeks.org/problems/longest-palindrome-in-a-string1956/1 <br>
 https://leetcode.com/problems/predict-the-winner/ <br>
 https://leetcode.com/problems/rotate-image/ <br>
+https://www.geeksforgeeks.org/problems/spirally-traversing-a-matrix-1587115621/1 <br>
