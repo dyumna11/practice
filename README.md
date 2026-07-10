@@ -87,3 +87,4 @@ https://leetcode.com/problems/rotate-image/ <br>
 https://www.geeksforgeeks.org/problems/spirally-traversing-a-matrix-1587115621/1 <br>
 https://leetcode.com/problems/snakes-and-ladders/description/ <br>
 https://leetcode.com/problems/minimum-one-bit-operations-to-make-integers-zero/ <br>
+https://leetcode.com/problems/most-stones-removed-with-same-row-or-column/ <br>
