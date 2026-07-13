@@ -90,3 +90,4 @@ https://leetcode.com/problems/minimum-one-bit-operations-to-make-integers-zero/ 
 https://leetcode.com/problems/most-stones-removed-with-same-row-or-column/ <br>
 https://leetcode.com/problems/possible-bipartition/ <br>
 https://leetcode.com/problems/implement-trie-prefix-tree/ <br>
+https://leetcode.com/problems/minimum-difficulty-of-a-job-schedule/ <br>
