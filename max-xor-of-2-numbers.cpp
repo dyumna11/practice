@@ -1,3 +1,4 @@
+
 class Solution {
 public:
 struct TrieNode
@@ -71,3 +72,35 @@ int find(TrieNode* root,int &x)
        return mx;
     }
 };
+//tc- since it can go till max height(height of max number), in that case, any number can be represented by log(n) bits
+//max number can be represented in 32 bits
+//TC= O(32*n) for inserting and finding for every index * n
+//------------------------------------------------------------
+
+    int findMaximumXOR(vector<int>& a) {
+       int mx=0,ans=0;
+      for(int i=31;i>=0;--i)
+      {
+        unordered_set<int>pref;
+        for(int x:a)
+        {
+            pref.insert(x>>i);//storing prefixes of binary representation till that index
+        }
+        bool found=false;
+        int candidate=(ans<<1)|1;//assuming we get one
+        for(int p:pref)
+        {
+            if(pref.count(p^candidate))//a^b=c; a=b^c finding if it is possible to make candidate=1
+            {
+                found=true;
+                break;
+            }
+        }
+        if(found)//if possible
+        ans=candidate;
+        else
+        ans=(ans<<1)|0;//otherwise add 0
+      }
+      return ans;
+    }
+//tc= O(32*n)= O(n)
