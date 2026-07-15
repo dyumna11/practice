@@ -13,6 +13,7 @@ Rotate Image — https://leetcode.com/problems/rotate-image/<br>
 Spirally Traversing a Matrix (GFG) — https://www.geeksforgeeks.org/problems/spirally-traversing-a-matrix-1587115621/1<br>
 Merge Intervals (IB) — https://www.interviewbit.com/problems/merge-intervals/<br>
 Sum of Subarray Ranges — https://leetcode.com/problems/sum-of-subarray-ranges/<br>
+K-th element of two Arrays-https://www.geeksforgeeks.org/problems/k-th-element-of-two-sorted-array1317/1<br>
 
 Binary Search
 
