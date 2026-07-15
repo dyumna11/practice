@@ -34,33 +34,36 @@
 //tc= O(n*n) fails for 1e5
 //-------------------------------------------------------------
 //greedy O(N)
+  class Solution {
+  public:
+
     int minJumps(vector<int>& a) {
         // code here
         int n=a.size();
+        vector<int>dp(n,-1);
         if(n == 1)
         return 0;
         if(a[0]==0)
         return -1;
-        
-       int ans=INT_MAX;
-       int jumps=1;
-       int stepend=a[0],mxreach=a[0];
-       for(int i=1;i<n;++i)
-       {
-           if(i==n-1)
-           return jumps;
-            mxreach=max(mxreach,a[i]+i);
-           if(i==stepend)
-           {
-                if(i>=mxreach)
-           return -1;
-               ++jumps;
-               stepend=mxreach;
-               if(stepend>=n-1)
-               return jumps;
-           }
+        int l=0,r=0,jumps=0;//range from l to r is accessible
+        while(r<n-1)
+        {
+            int far=r;//initially far=r
+            for(int ind=l;ind<=r;++ind)
+            {
+                far=max(far,a[ind]+ind);//far is the max it can go
+            }
+            if(far==r)//if far remains same as r then no progress has been made
+            return -1;//directly return -1
+            l=r+1;//for next iteration l becomes just next to r
+            r=far;//and r=far
+            ++jumps;
+        }
+   
+      return jumps;
           
-       }
-       return -1;
+    }
+};
+
        
     }
