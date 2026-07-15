@@ -29,6 +29,7 @@ Boats to Save People — https://leetcode.com/problems/boats-to-save-people/<br>
 Number of Substrings Containing All Three Characters — https://leetcode.com/problems/number-of-substrings-containing-all-three-characters/<br>
 Maximum Points You Can Obtain from Cards (GFG) — https://www.geeksforgeeks.org/problems/maximum-point-you-can-obtain-from-cards/1<br>
 Longest K Unique Characters Substring (GFG) — https://www.geeksforgeeks.org/problems/longest-k-unique-characters-substring0853/1<br>
+K Sized Subarray Maximum- https://www.geeksforgeeks.org/problems/maximum-of-all-subarrays-of-size-k3101/1<br>
 
 Stack
 
