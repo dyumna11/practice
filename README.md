@@ -96,3 +96,5 @@ https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array/ <br>
 https://www.geeksforgeeks.org/problems/find-the-longest-string--170645/1 <br>
 https://www.geeksforgeeks.org/problems/count-of-distinct-substrings/1 <br>
 https://leetcode.com/problems/maximum-xor-with-an-element-from-array/ <br>
+https://leetcode.com/problems/minimum-time-to-collect-all-apples-in-a-tree/ <br>
+https://leetcode.com/problems/reorder-routes-to-make-all-paths-lead-to-the-city-zero/description/ <br>
