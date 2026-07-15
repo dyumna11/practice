@@ -60,6 +60,7 @@ Job Sequencing Problem (GFG) — https://www.geeksforgeeks.org/problems/job-sequ
 Fractional Knapsack (GFG) — https://www.geeksforgeeks.org/problems/fractional-knapsack-1587115620/1<br>
 Hand of Straights — https://leetcode.com/problems/hand-of-straights/description/<br>
 Minimum Lights to Activate (IB) — https://www.interviewbit.com/problems/minimum-lights-to-activate/<br>
+Minimum jumps needed to reach end- https://www.geeksforgeeks.org/problems/minimum-number-of-jumps-1587115620/1
 Flip (IB) — https://www.interviewbit.com/problems/flip/<br>
 Sum of Fibonacci Numbers (IB) — https://www.interviewbit.com/problems/sum-of-fibonacci-numbers/<br>
 
