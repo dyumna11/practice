@@ -101,6 +101,7 @@ Distance of Nearest Cell Having 1 (GFG) — https://www.geeksforgeeks.org/proble
 Course Schedule (GFG) — https://www.geeksforgeeks.org/problems/course-schedule/1<br>
 Making a Large Island — https://leetcode.com/problems/making-a-large-island/<br>
 Snakes and Ladders — https://leetcode.com/problems/snakes-and-ladders/description/<br>
+https://www.geeksforgeeks.org/problems/snake-and-ladder-problem4816/1 <br> (gfg)
 Most Stones Removed with Same Row or Column — https://leetcode.com/problems/most-stones-removed-with-same-row-or-column/<br>
 Possible Bipartition — https://leetcode.com/problems/possible-bipartition/<br>
 Minimum Time to Collect All Apples in a Tree — https://leetcode.com/problems/minimum-time-to-collect-all-apples-in-a-tree/<br>
