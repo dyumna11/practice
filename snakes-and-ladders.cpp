@@ -37,4 +37,55 @@ vis[1]=1;
       }
       return -1;  
     }
+//----------------------------------
+//gfg question
+class Solution {
+  public:
+    int minThrows(int n, vector<int>& lad, vector<int>& sn) {
+        // code here
+      
+        vector<bool>vis(n*n+1,false);
+        vis[1]=true;
+         unordered_map<int,int> ladder, snake;
+        for(int i=0;i<lad.size();i+=2)
+        ladder[lad[i]]=lad[i+1];
+        for(int i=0;i<sn.size();i+=2)
+        snake[sn[i]]=sn[i+1];
+        int steps=0;
+        queue<int>q;
+          q.push(1);
+        while(!q.empty())
+        {
+            int s=q.size();
+            while(s--)
+            {
+            int node=q.front();
+            q.pop();
+            if(node==n*n)
+            return steps;
+            for(int k=1;k<=6;++k)
+            {
+                int val=k+node;
+                if(val>n*n)
+                continue;
+               
+                
+                 if(ladder.count(val))
+                {
+                    val=ladder[val];
+                }
+                else if(snake.count(val))
+                val=snake[val];
+                
+                if(vis[val])
+                continue;
+                q.push(val);
+                vis[val]=1;
+                
+            }
+        }
+        ++steps;
+        }
+       return -1; 
+    }
 };
