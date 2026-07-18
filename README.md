@@ -117,9 +117,9 @@ Boundary Traversal of Binary Tree (GFG) — https://www.geeksforgeeks.org/proble
 Burning Tree (GFG) — https://www.geeksforgeeks.org/problems/burning-tree/1<br>
 Array to BST (GFG) — https://www.geeksforgeeks.org/problems/array-to-bst4443/1<br>
 K Sum Paths- https://www.geeksforgeeks.org/problems/k-sum-paths/1<br>
-Tree dp
-Maximum Non-Adjacent Nodes Sum- https://www.geeksforgeeks.org/problems/maximum-sum-of-non-adjacent-nodes/1
-Binary tree cameras- https://leetcode.com/problems/binary-tree-cameras/
+Tree dp<br>
+Maximum Non-Adjacent Nodes Sum- https://www.geeksforgeeks.org/problems/maximum-sum-of-non-adjacent-nodes/1<br>
+Binary tree cameras- https://leetcode.com/problems/binary-tree-cameras/<br>
 
 Heap / Priority Queue
 
