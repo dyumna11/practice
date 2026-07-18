@@ -38,6 +38,7 @@ Largest Rectangle in Histogram — https://leetcode.com/problems/largest-rectang
 Using a Robot to Print the Lexicographically Smallest String — https://leetcode.com/problems/using-a-robot-to-print-the-lexicographically-smallest-string/<br>
 Evaluate Reverse Polish Notation — https://leetcode.com/problems/evaluate-reverse-polish-notation/<br>
 Minimum Add to Make Parentheses Valid — https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/<br>
+Min stack - https://leetcode.com/problems/min-stack/<br>
 
 Linked List
 
