@@ -107,6 +107,7 @@ Possible Bipartition — https://leetcode.com/problems/possible-bipartition/<br>
 Minimum Time to Collect All Apples in a Tree — https://leetcode.com/problems/minimum-time-to-collect-all-apples-in-a-tree/<br>
 Reorder Routes to Make All Paths Lead to the City Zero — https://leetcode.com/problems/reorder-routes-to-make-all-paths-lead-to-the-city-zero/description/<br>
 Maximum path sum in matrix-https://www.geeksforgeeks.org/problems/path-in-matrix3805/1 <br>
+Longest Possible Route in a Matrix with Hurdles- https://www.geeksforgeeks.org/problems/longest-possible-route-in-a-matrix-with-hurdles/1 <br>
 
 Trees
 
