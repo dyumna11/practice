@@ -110,6 +110,7 @@ Reorder Routes to Make All Paths Lead to the City Zero — https://leetcode.com/
 Maximum path sum in matrix-https://www.geeksforgeeks.org/problems/path-in-matrix3805/1 <br>
 Longest Possible Route in a Matrix with Hurdles- https://www.geeksforgeeks.org/problems/longest-possible-route-in-a-matrix-with-hurdles/1 <br>
  Longest Path With Different Adjacent Characters- https://leetcode.com/problems/longest-path-with-different-adjacent-characters/<br>
+ 
 Trees
 
 Lowest Common Ancestor of Deepest Leaves — https://leetcode.com/problems/lowest-common-ancestor-of-deepest-leaves/<br>
@@ -122,6 +123,7 @@ Tree dp<br>
 Maximum Non-Adjacent Nodes Sum- https://www.geeksforgeeks.org/problems/maximum-sum-of-non-adjacent-nodes/1<br>
 Binary tree cameras- https://leetcode.com/problems/binary-tree-cameras/<br>
 Construct Binary Tree from Preorder and Inorder Traversal- https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/<br>
+Delete Nodes And Return Forest- https://leetcode.com/problems/delete-nodes-and-return-forest/ <br>
 
 Heap / Priority Queue
 
