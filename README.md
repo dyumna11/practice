@@ -14,6 +14,7 @@ Spirally Traversing a Matrix (GFG) — https://www.geeksforgeeks.org/problems/sp
 Merge Intervals (IB) — https://www.interviewbit.com/problems/merge-intervals/<br>
 Sum of Subarray Ranges — https://leetcode.com/problems/sum-of-subarray-ranges/<br>
 K-th element of two Arrays-https://www.geeksforgeeks.org/problems/k-th-element-of-two-sorted-array1317/1<br>
+Factorial Of Large Numbers -https://www.geeksforgeeks.org/problems/factorials-of-large-numbers2508/1<br>
 
 Binary Search
 
