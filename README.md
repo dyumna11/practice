@@ -14,7 +14,7 @@ Spirally Traversing a Matrix (GFG) — https://www.geeksforgeeks.org/problems/sp
 Merge Intervals (IB) — https://www.interviewbit.com/problems/merge-intervals/<br>
 Sum of Subarray Ranges — https://leetcode.com/problems/sum-of-subarray-ranges/<br>
 K-th element of two Arrays-https://www.geeksforgeeks.org/problems/k-th-element-of-two-sorted-array1317/1<br>
-Factorial Of Large Numbers -https://www.geeksforgeeks.org/problems/factorials-of-large-numbers2508/1<br>
+*Factorial Of Large Numbers -https://www.geeksforgeeks.org/problems/factorials-of-large-numbers2508/1<br>
 
 Binary Search
 
@@ -87,8 +87,8 @@ Distinct Subsequences — https://leetcode.com/problems/distinct-subsequences/de
 Longest String Chain — https://leetcode.com/problems/longest-string-chain/<br>
 Longest Bitonic Subsequence (GFG) — https://www.geeksforgeeks.org/problems/longest-bitonic-subsequence0824/1<br>
 Number of Paths (GFG) — https://www.geeksforgeeks.org/problems/number-of-paths0926/1<br>
-Predict the Winner — https://leetcode.com/problems/predict-the-winner/<br>
-Minimum Difficulty of a Job Schedule — https://leetcode.com/problems/minimum-difficulty-of-a-job-schedule/<br>
+*Predict the Winner — https://leetcode.com/problems/predict-the-winner/<br>
+*Minimum Difficulty of a Job Schedule — https://leetcode.com/problems/minimum-difficulty-of-a-job-schedule/<br>
 Longest Palindrome in a String (GFG) — https://www.geeksforgeeks.org/problems/longest-palindrome-in-a-string1956/1<br>
 
 Graphs
@@ -102,15 +102,16 @@ Shortest Bridge — https://leetcode.com/problems/shortest-bridge/<br>
 Distance of Nearest Cell Having 1 (GFG) — https://www.geeksforgeeks.org/problems/distance-of-nearest-cell-having-1-1587115620/1<br>
 Course Schedule (GFG) — https://www.geeksforgeeks.org/problems/course-schedule/1<br>
 Making a Large Island — https://leetcode.com/problems/making-a-large-island/<br>
-Snakes and Ladders — https://leetcode.com/problems/snakes-and-ladders/description/<br>
+*Snakes and Ladders — https://leetcode.com/problems/snakes-and-ladders/description/<br>
 https://www.geeksforgeeks.org/problems/snake-and-ladder-problem4816/1 <br> (gfg)
 Most Stones Removed with Same Row or Column — https://leetcode.com/problems/most-stones-removed-with-same-row-or-column/<br>
 Possible Bipartition — https://leetcode.com/problems/possible-bipartition/<br>
 Minimum Time to Collect All Apples in a Tree — https://leetcode.com/problems/minimum-time-to-collect-all-apples-in-a-tree/<br>
-Reorder Routes to Make All Paths Lead to the City Zero — https://leetcode.com/problems/reorder-routes-to-make-all-paths-lead-to-the-city-zero/description/<br>
+*Reorder Routes to Make All Paths Lead to the City Zero — https://leetcode.com/problems/reorder-routes-to-make-all-paths-lead-to-the-city-zero/description/<br>
 Maximum path sum in matrix-https://www.geeksforgeeks.org/problems/path-in-matrix3805/1 <br>
 Longest Possible Route in a Matrix with Hurdles- https://www.geeksforgeeks.org/problems/longest-possible-route-in-a-matrix-with-hurdles/1 <br>
- Longest Path With Different Adjacent Characters- https://leetcode.com/problems/longest-path-with-different-adjacent-characters/<br>
+ *Longest Path With Different Adjacent Characters- https://leetcode.com/problems/longest-path-with-different-adjacent-characters/<br>
+ *Number of Good Paths- https://leetcode.com/problems/number-of-good-paths/description/<br>
  
 Trees
 
@@ -135,7 +136,7 @@ Find Median from Data Stream — https://leetcode.com/problems/find-median-from-
 Maximum Sum Combination (GFG) — https://www.geeksforgeeks.org/problems/maximum-sum-combination/1<br>
 Design Twitter — https://leetcode.com/problems/design-twitter/description/<br>
 
-Trie
+*Trie
 
 Implement Trie (Prefix Tree) — https://leetcode.com/problems/implement-trie-prefix-tree/description/<br>
 Maximum XOR of Two Numbers in an Array — https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array/<br>
