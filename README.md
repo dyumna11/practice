@@ -144,6 +144,7 @@ Find the Longest String (GFG) — https://www.geeksforgeeks.org/problems/find-th
 Count of Distinct Substrings (GFG) — https://www.geeksforgeeks.org/problems/count-of-distinct-substrings/1<br>
 Maximum XOR with an Element from Array — https://leetcode.com/problems/maximum-xor-with-an-element-from-array/<br>
 *Longest Common Suffix Queries-https://leetcode.com/problems/longest-common-suffix-queries/description/ <br>
+Find the Length of the Longest Common Prefix-https://leetcode.com/problems/find-the-length-of-the-longest-common-prefix/description/ <br>
 
 Bit Manipulation
 
