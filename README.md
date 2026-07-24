@@ -112,6 +112,7 @@ Maximum path sum in matrix-https://www.geeksforgeeks.org/problems/path-in-matrix
 Longest Possible Route in a Matrix with Hurdles- https://www.geeksforgeeks.org/problems/longest-possible-route-in-a-matrix-with-hurdles/1 <br>
  *Longest Path With Different Adjacent Characters- https://leetcode.com/problems/longest-path-with-different-adjacent-characters/<br>
  *Number of Good Paths- https://leetcode.com/problems/number-of-good-paths/description/<br>
+*Find closest node to node path- https://leetcode.com/problems/find-closest-node-to-given-two-nodes/
  
 Trees
 
