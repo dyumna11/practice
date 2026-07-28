@@ -1,0 +1,41 @@
+class Solution {
+public:
+    int minFlips(int a, int b, int c) {
+        int count=0;
+        int res=(a|b)^c;//calc flips
+        //now since we need to count individual flips
+        int same=a&b;//find those which are same in both
+        return __builtin_popcount(res)+__builtin_popcount(same&res);
+        //now add with those which are same in res as well as in same
+        //they need to be added twice
+    }
+};
+tc=o(n=no. of bits)
+
+class Solution {
+public:
+    int minFlips(int a, int b, int c) {
+        int count=0;
+        for(int i=31;i>=0;--i)
+        {
+            int ithbitofc=((1<<i)&c);
+             int ithbitofb=((1<<i)&b);
+              int ithbitofa=((1<<i)&a);
+              if(ithbitofc)
+              {
+                if(!ithbitofb && !ithbitofa)
+                ++count;
+              }
+              else
+              {
+                if(ithbitofb)
+                ++count;
+                if(ithbitofa)
+                ++count;
+              }
+
+        }
+        return count;
+    }
+};
+tc=o(n=32)=o(1)
