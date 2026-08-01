@@ -91,6 +91,7 @@ Number of Paths (GFG) — https://www.geeksforgeeks.org/problems/number-of-paths
 *Predict the Winner — https://leetcode.com/problems/predict-the-winner/<br>
 *Minimum Difficulty of a Job Schedule — https://leetcode.com/problems/minimum-difficulty-of-a-job-schedule/<br>
 Longest Palindrome in a String (GFG) — https://www.geeksforgeeks.org/problems/longest-palindrome-in-a-string1956/1<br>
+*Ugly number 2-https://leetcode.com/problems/ugly-number-ii/description/ <br>
 
 Graphs
 
