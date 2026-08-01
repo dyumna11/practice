@@ -75,6 +75,7 @@ Palindrome Partitioning — https://leetcode.com/problems/palindrome-partitionin
 Partition Array to K Subsets (GFG) — https://www.geeksforgeeks.org/problems/partition-array-to-k-subsets/1<br>
 Possible Words from Phone Digits (GFG) — https://www.geeksforgeeks.org/problems/possible-words-from-phone-digits-1587115620/1<br>
 Word Search II — https://leetcode.com/problems/word-search-ii/<br>
+Maximum Length of a Concatenated String with Unique Characters- https://leetcode.com/problems/maximum-length-of-a-concatenated-string-with-unique-characters/description/<br>
 
 Dynamic Programming
 
