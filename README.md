@@ -159,6 +159,7 @@ Find the Original Array of Prefix XOR — https://leetcode.com/problems/find-the
 Maximum XOR Product — https://leetcode.com/problems/maximum-xor-product/<br>
 Minimum One Bit Operations to Make Integers Zero — https://leetcode.com/problems/minimum-one-bit-operations-to-make-integers-zero/<br>
  Minimum Flips to Make a OR b Equal to c- https://leetcode.com/problems/minimum-flips-to-make-a-or-b-equal-to-c/ <br>
+Smallest sufficient team- https://leetcode.com/problems/smallest-sufficient-team/description/ <br>
 
 String
 
