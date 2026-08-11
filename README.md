@@ -117,6 +117,11 @@ Longest Possible Route in a Matrix with Hurdles- https://www.geeksforgeeks.org/p
 *Find closest node to node path- https://leetcode.com/problems/find-closest-node-to-given-two-nodes/
 *Shortest Path in a Grid with Obstacles Elimination-https://leetcode.com/problems/shortest-path-in-a-grid-with-obstacles-elimination/<br>
 *Bus routes- https://leetcode.com/problems/bus-routes/<br>
+
+ Bitmasking in graphs
+ https://leetcode.com/problems/shortest-path-to-get-all-keys/<br>
+ https://leetcode.com/problems/unique-paths-iii/<br>
+ https://leetcode.com/problems/shortest-path-visiting-all-nodes/<br>
  
 Trees
 
