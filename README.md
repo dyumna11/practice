@@ -92,7 +92,7 @@ Number of Paths (GFG) — https://www.geeksforgeeks.org/problems/number-of-paths
 *Minimum Difficulty of a Job Schedule — https://leetcode.com/problems/minimum-difficulty-of-a-job-schedule/<br>
 Longest Palindrome in a String (GFG) — https://www.geeksforgeeks.org/problems/longest-palindrome-in-a-string1956/1<br>
 *Ugly number 2-https://leetcode.com/problems/ugly-number-ii/description/ <br>
-
+*https://leetcode.com/contest/weekly-contest-514/problems/maximum-area-of-two-non-overlapping-square-submatrices/<br>
 Graphs
 
 Distance from the Source: Bellman-Ford (GFG) — https://www.geeksforgeeks.org/problems/distance-from-the-source-bellman-ford-algorithm/1<br>
