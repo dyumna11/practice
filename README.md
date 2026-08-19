@@ -141,6 +141,7 @@ Maximum Non-Adjacent Nodes Sum- https://www.geeksforgeeks.org/problems/maximum-s
 Binary tree cameras- https://leetcode.com/problems/binary-tree-cameras/<br>
 Construct Binary Tree from Preorder and Inorder Traversal- https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/<br>
 Delete Nodes And Return Forest- https://leetcode.com/problems/delete-nodes-and-return-forest/ <br>
+https://www.interviewbit.com/problems/unique-binary-search-trees/ <br>
 
 Heap / Priority Queue
 
