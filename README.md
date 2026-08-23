@@ -96,6 +96,8 @@ Longest Palindrome in a String (GFG) — https://www.geeksforgeeks.org/problems/
 *https://leetcode.com/contest/weekly-contest-514/problems/maximum-area-of-two-non-overlapping-square-submatrices/<br>
 https://leetcode.com/problems/minimum-falling-path-sum-ii/<br>
 https://www.geeksforgeeks.org/problems/number-of-distinct-subsequences0909/1<br>
+https://leetcode.com/problems/stone-game-ii/description/<br>
+https://leetcode.com/problems/stone-game-iii/<br>
 
 Graphs
 
