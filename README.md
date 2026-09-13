@@ -191,4 +191,4 @@ Distinct Prime Factors of Product of Array — https://leetcode.com/problems/dis
 
 Segment tree
 https://www.geeksforgeeks.org/problems/range-min-max-queries4557/1<br>
-
+https://leetcode.com/problems/count-of-smaller-numbers-after-self/description/ <br>
