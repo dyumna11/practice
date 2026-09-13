@@ -188,3 +188,7 @@ Math
 
 Implement Power Function (IB) — https://www.interviewbit.com/problems/implement-power-function/<br>
 Distinct Prime Factors of Product of Array — https://leetcode.com/problems/distinct-prime-factors-of-array/<br>
+
+Segment tree
+https://www.geeksforgeeks.org/problems/range-min-max-queries4557/1<br>
+
