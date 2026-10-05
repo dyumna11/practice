@@ -38,3 +38,39 @@ return s1.substr(start,mn);
 
     }
 };
+------------------------------------
+
+    string minWindow(string s1, string s2) {
+        // User code goes here
+        int l=0,n=s1.size(),m=s2.size();
+        int i=0,j=0,start=0,mn=1e9;
+        while(i<n)
+        {
+            if(s1[i]==s2[j])
+            ++j;
+            if(j==m)
+            {
+                --j;
+                int end=i;
+                while(j>=0)
+                {
+                    if(s1[i]==s2[j])
+                    --j;
+                    --i;
+                }
+                ++i;
+                j=0;
+                if(mn>end-i+1)
+                {
+                    mn=end-i+1;
+                    start=i;
+                }
+            }
+            ++i;
+        }
+        if(mn==1e9)
+        return "";
+        return s1.substr(start,mn);
+    }
+};
+
