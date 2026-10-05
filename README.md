@@ -32,6 +32,7 @@ Number of Substrings Containing All Three Characters — https://leetcode.com/pr
 Maximum Points You Can Obtain from Cards (GFG) — https://www.geeksforgeeks.org/problems/maximum-point-you-can-obtain-from-cards/1<br>
 Longest K Unique Characters Substring (GFG) — https://www.geeksforgeeks.org/problems/longest-k-unique-characters-substring0853/1<br>
 K Sized Subarray Maximum- https://www.geeksforgeeks.org/problems/maximum-of-all-subarrays-of-size-k3101/1<br>
+https://www.geeksforgeeks.org/problems/minimum-window-subsequence/1 <br>
 
 Stack
 
