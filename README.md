@@ -169,6 +169,7 @@ Maximum XOR with an Element from Array — https://leetcode.com/problems/maximum
 *Longest Common Suffix Queries-https://leetcode.com/problems/longest-common-suffix-queries/description/ <br>
 *Find the Length of the Longest Common Prefix-https://leetcode.com/problems/find-the-length-of-the-longest-common-prefix/description/ <br>
 *Replace words- https://leetcode.com/problems/replace-words/<br>
+https://leetcode.com/problems/maximum-strong-pair-xor-ii/description/ <br>
 
 Bit Manipulation
 
